@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">I am advancing towards the goal of becoming a frontend software developer. I like to do making things that can change the world</h3>
+<h3 align="center">I am moving towards the goal of becoming a Full Stack software developer. I like to do things that can help people.</h3>
 
-- 🌱 I’m currently learning **React,js, Express.js**
+- 🌱 I’m currently learning **React.js,Node.js, Express.js**
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React, Node**
 
 - 📫 How to reach me **efecagglar@gmail.com**
 <!---
