@@ -8,6 +8,7 @@
 - 📫 How to reach me **efecagglar@gmail.com**
 
 <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efecaglarr&layout=compact)
 
 <!---
