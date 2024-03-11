@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">I am moving towards the goal of becoming a Full Stack software developer. I like to do things that can help people.</h3>
+<h3 align="center">I am moving towards the goal of becoming a Junior Full Stack Software Developer. I like to do things that can help people.</h3>
 
 - 🌱 I’m currently learning **React.js,Node.js, Express.js**
 
