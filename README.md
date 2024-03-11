@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **efecagglar@gmail.com**
 
-![](https://raw.githubusercontent.com/efecaglarr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efecaglarr)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 efecaglarr/efecaglarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
