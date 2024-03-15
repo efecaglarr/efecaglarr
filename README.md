@@ -1,5 +1,5 @@
 <h1 align="center">Efe Caglar</h1>
-Hi! 👋🏼 I'm Efe from Turkey, I am on my way to becoming a Full Stack Software Developer. I am particularly interested in modern technologies such as ⚛️ React and 🔗 Node.js. 
+Hi! 👋🏼 I'm Efe from Turkey, a second-year Software Engineering student on the path to becoming a Full Stack Software Developer I am particularly interested in modern technologies such as ⚛️ React and 🔗 Node.js. 
 <br/>
 <h2>About Me</h2>
   I have a passion for learning new languages and frameworks and enjoy creating solutions that can help people. Open to collaboration and always willing to explore the latest technology trends.
