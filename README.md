@@ -7,7 +7,7 @@ Hi! 👋🏼 I'm Efe from Turkey, I am on my way to becoming a Full Stack Softwa
 <br/>
 If you need help on anything else or would like to collaborate, please feel free to contact me!
 
-- 🌱 I’m currently learning  📟**Next.js**, ⚛ **React, Redux, Node, Express**
+- 🌱 I’m currently learning  📟 **Next.js**, ⚛ **React, Redux, Node, Express**
 
 - 💬 Ask me about **Javascript, React, Node**
 
