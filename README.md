@@ -7,7 +7,7 @@ Hi! 👋🏼 I'm Efe from Turkey, a second-year Software Engineering student on 
 <br/>
 If you need help on anything else or would like to collaborate, please feel free to contact me!
 
-- 🌱 I’m currently learning  📟 **Next.js**, **Motoko, Rust**
+- 🌱 I’m currently learning  📟 **Next.js**
 
 - 💬 Ask me about **Javascript, React, Redux, Material UI Node.js, Express.js**
 
