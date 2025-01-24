@@ -9,7 +9,7 @@ If you need help on anything else or would like to collaborate, please feel free
 
 - 🌱 I’m currently learning  📟 **Next.js**
 
-- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js**
+- 💬 Ask me about **Javascript, React, Redux, Node.js, Express.js, Selenium (Python)**
 
 - 📫 How to reach me **efecagglar@gmail.com**
 
